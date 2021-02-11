@@ -15,3 +15,10 @@ IDE Used - Netbeans.
 
 ## Some ScreenShots
 
+![11](https://user-images.githubusercontent.com/43448914/107688574-cd191280-6ccd-11eb-905f-79e83dabd50e.png)
+
+
+![2](https://user-images.githubusercontent.com/43448914/107688536-c2f71400-6ccd-11eb-958b-ccaf145bdf8b.png)
+
+
+![3](https://user-images.githubusercontent.com/43448914/107688580-ce4a3f80-6ccd-11eb-94f8-6d811b6876c0.png)
